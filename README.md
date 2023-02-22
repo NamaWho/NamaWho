@@ -13,11 +13,11 @@
 
 ### Github Stats 📊
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NamaWho&hide=prs,issues&count_private=true&show_icons=true"/>
+<a href="https://github-readme-stats-namawho.vercel.app">
+    <img align="center" src="https://github-readme-stats-namawho.vercel.app/api?username=NamaWho&hide=prs,issues&count_private=true&show_icons=true"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamaWho&layout=compact"/>
+<a href="https://github-readme-stats-namawho.vercel.app">
+    <img align="center" src="https://github-readme-stats-namawho.vercel.app/api/top-langs/?username=NamaWho&layout=compact"/>
 </a>
 
 ### Languages and Tools 🛠️
