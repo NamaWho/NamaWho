@@ -60,5 +60,5 @@
 
 ### Visitors 👨🏻‍💻
 <p align="center">
-    <img src="21321321https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNamaWho&labelColor=%23d9e3f0&countColor=%23c13483">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNamaWho&labelColor=%23d9e3f0&countColor=%23c13483">
 </p>
