@@ -15,7 +15,7 @@
 ### Github Stats 📊
 
 <a href="https://github-readme-stats-namawho.vercel.app">
-    <img align="center" src="https://github-readme-stats-ipqz2o9mt-namawhos-projects.vercel.app/api?username=NamaWho&hide=prs,issues&count_private=true&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats-ipqz2o9mt-namawhos-projects.vercel.app/api?username=NamaWho&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true"/>
 </a>
 <a href="https://github-readme-stats-namawho.vercel.app">
     <img align="center" src="https://github-readme-stats-ipqz2o9mt-namawhos-projects.vercel.app/api/top-langs/?username=NamaWho&layout=compact&count_private=true"/>
