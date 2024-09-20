@@ -17,14 +17,13 @@
 
 ### 📊 Github Stats
 
-<div align="center">
-  <a href="https://github-readme-stats-namawho.vercel.app">
-    <img align="center" height=200 src="https://github-readme-stats-a36t3u3lr-namawhos-projects.vercel.app/api?username=NamaWho&count_private=true&show_icons=true&include_all_commits=true" alt="NamaWho GitHub Stats">
-  </a>
-  <a href="https://github-readme-stats-namawho.vercel.app">
-    <img align="center" height=200 src="https://github-readme-stats-a36t3u3lr-namawhos-projects.vercel.app/api/top-langs/?username=NamaWho&layout=compact&count_private=true" alt="NamaWho Most Used Languages">
-  </a>
-</div>
+<a href="https://github-readme-stats-namawho.vercel.app">
+  <img align="center" height=200 src="https://github-readme-stats-a36t3u3lr-namawhos-projects.vercel.app/api?username=NamaWho&count_private=true&show_icons=true&include_all_commits=true" alt="NamaWho GitHub Stats">
+</a>
+<a href="https://github-readme-stats-namawho.vercel.app">
+  <img align="center" height=200 src="https://github-readme-stats-a36t3u3lr-namawhos-projects.vercel.app/api/top-langs/?username=NamaWho&layout=compact&count_private=true" alt="NamaWho Most Used Languages">
+</a>
+
 
 
 
